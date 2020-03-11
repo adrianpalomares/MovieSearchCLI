@@ -1,0 +1,19 @@
+{
+  "name": "movie-search",
+  "version": "1.0.0",
+  "description": "An app to search for movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianpalomares/movie-search.git"
+  },
+  "author": "Adrian Palomares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianpalomares/movie-search/issues"
+  },
+  "homepage": "https://github.com/adrianpalomares/movie-search#readme"
+}
