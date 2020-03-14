@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/adrianpalomares/movie-search/issues"
   },
-  "homepage": "https://github.com/adrianpalomares/movie-search#readme"
+  "homepage": "https://github.com/adrianpalomares/movie-search#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "superagent": "^5.2.2",
+    "yargs": "^15.3.0"
+  }
 }
