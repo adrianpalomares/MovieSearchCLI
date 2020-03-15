@@ -2,7 +2,7 @@
 A command line application to search for movies and get a quick description
 
 ## Getting Started
-Follow the instruction to get this application running on your local machine
+Follow the instructions to get this application running on your local machine
 
 ### Prerequisites
 * Node.js
@@ -24,8 +24,10 @@ touch .env
 ```
 In the .env file input your api key:
 ```
-API_KEY=<YOUR API KEY>
+API_KEY = <YOUR API KEY>
 ```
 Save the file
 
 Application should be ready to use!
+
+## Documentation
