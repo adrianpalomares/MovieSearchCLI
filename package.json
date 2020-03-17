@@ -20,6 +20,7 @@
     "dotenv": "^8.2.0",
     "figlet": "^1.3.0",
     "inquirer": "^7.1.0",
+    "moviesearch": "file:moviesearch",
     "superagent": "^5.2.2",
     "yargs": "^15.3.0"
   }
