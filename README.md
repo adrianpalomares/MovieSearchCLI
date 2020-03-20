@@ -27,3 +27,6 @@ Save the file
 Application should be ready to use!
 
 ## Documentation
+
+### ``` node cli.js search -q <QUERY>```
+This is the main command. Input the name/query you want to search for.
