@@ -32,3 +32,7 @@ Application should be ready to use!
 This is the main command. Input the name/query you want to search for.
 
 ![Screenshot from 2020-03-20 15-59-54](https://user-images.githubusercontent.com/37012618/77212515-b588d800-6ac4-11ea-8cc8-7b68497c0cc5.png)
+
+If the query contains spaces, make sure to include quotation marks around the query
+
+``` "<QUERY>"```
