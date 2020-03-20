@@ -16,15 +16,11 @@ Install dependencies
 npm install 
 ```
 
-Create a .env file in the directory
+Navigate to the moviesearch folder and find config.json
 
-On Unix systems:
+Then input your api key into the "apiKey" key
 ```
-touch .env
-```
-In the .env file input your api key:
-```
-API_KEY = <YOUR API KEY>
+"apiKey": "<API KEY GOES HERE>",
 ```
 Save the file
 
